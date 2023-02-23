@@ -32,3 +32,20 @@ C:\Dev\League-Bot-Backup\Source\bin\Debug\Newtonsoft.Json.dll
 C:\Dev\League-Bot-Backup\Source\bin\Debug\Leaf.xNet.xml
 C:\Dev\League-Bot-Backup\Source\bin\Debug\Newtonsoft.Json.xml
 C:\Dev\League-Bot-Backup\Source\obj\Debug\LeagueBot.csproj.CopyComplete
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\LeagueBot.exe.config
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\LeagueBot.exe
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\LeagueBot.pdb
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\InputManager.dll
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\Leaf.xNet.dll
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\Leaf.xNet.xml
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.csproj.AssemblyReference.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.Logger.resources
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.Properties.Resources.resources
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.csproj.GenerateResource.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.csproj.CoreCompileInputs.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.csproj.CopyComplete
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.exe
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Debug\LeagueBot.pdb

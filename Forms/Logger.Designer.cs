@@ -155,7 +155,7 @@
             this.Controls.Add(this.btnFind);
             this.Controls.Add(this.LoggerText);
             this.Name = "Logger";
-            this.Text = "LeagueBot - Debug Logger";
+            this.Text = "YK\'s League AUTOSTARTER";
             this.Load += new System.EventHandler(this.Logger_Load);
             this.Shown += new System.EventHandler(this.Logger_Shown);
             this.ResumeLayout(false);

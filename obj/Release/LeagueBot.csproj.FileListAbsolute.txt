@@ -15,3 +15,20 @@ C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.CoreCompileInputs.c
 C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.CopyComplete
 C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.exe
 C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.pdb
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\LeagueBot.exe.config
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\LeagueBot.exe
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\LeagueBot.pdb
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\InputManager.dll
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\Leaf.xNet.dll
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\Newtonsoft.Json.dll
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\Leaf.xNet.xml
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\bin\Release\Newtonsoft.Json.xml
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.csproj.AssemblyReference.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.Logger.resources
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.Properties.Resources.resources
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.csproj.GenerateResource.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.csproj.CoreCompileInputs.cache
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.csproj.CopyComplete
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.exe
+C:\Users\pecul\OneDrive\Desktop\New folder\YK-s-League-AUTOSTARTER\obj\Release\LeagueBot.pdb
