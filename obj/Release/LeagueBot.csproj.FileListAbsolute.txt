@@ -1,0 +1,17 @@
+C:\Dev\League-Bot-Backup\Source\bin\Release\LeagueBot.exe.config
+C:\Dev\League-Bot-Backup\Source\bin\Release\LeagueBot.exe
+C:\Dev\League-Bot-Backup\Source\bin\Release\LeagueBot.pdb
+C:\Dev\League-Bot-Backup\Source\bin\Release\InputManager.dll
+C:\Dev\League-Bot-Backup\Source\bin\Release\Leaf.xNet.dll
+C:\Dev\League-Bot-Backup\Source\bin\Release\Newtonsoft.Json.dll
+C:\Dev\League-Bot-Backup\Source\bin\Release\Leaf.xNet.xml
+C:\Dev\League-Bot-Backup\Source\bin\Release\Newtonsoft.Json.xml
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.AssemblyReference.cache
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.SuggestedBindingRedirects.cache
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.Logger.resources
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.Properties.Resources.resources
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.GenerateResource.cache
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.CoreCompileInputs.cache
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.csproj.CopyComplete
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.exe
+C:\Dev\League-Bot-Backup\Source\obj\Release\LeagueBot.pdb
