@@ -5,3 +5,4 @@ Based and heavily inpired by Skinz3 League-of-Legends-Bot (https://github.com/Sk
 Althoug much of the same code is shared the goal of this tool is fundamentally different from the original project. 
 Iam aware of several bugs and possible fixes but this is a temporary tool only and will be a part of a bigger project eventually.
 
+![screenshot](https://github.com/Yuuki-Moon/YK-s-League-AUTOSTARTER/blob/main/screenshot.png)
